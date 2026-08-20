@@ -207,6 +207,7 @@ body {
 }
 .cart__buyButton {
   padding: 0.2vw 0.6vw;
+  margin-bottom: 12vw;
   background: rgb(253, 0, 0);
   color: rgb(251, 251, 251);
   text-align: center;
