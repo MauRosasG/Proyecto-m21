@@ -16,7 +16,7 @@ body {
 
 .header {
   padding: 20px 50px;
-  background-color: #333;
+  background-color: #5c8d9c;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -62,7 +62,7 @@ body {
   background-image: url("../img/banner.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  color: #ffefef;
+  color: #fdf5f5;
   background-position-y: 45%;
 }
 .main__h2 {
@@ -185,7 +185,7 @@ body {
   text-align: center;
 }
 .cart__item {
-  border-bottom: 1px solid #333;
+  border-bottom: 1px solid #5c8d9c;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -207,7 +207,7 @@ body {
 }
 .cart__buyButton {
   padding: 0.2vw 0.6vw;
-  margin-bottom: 12vw;
+  margin-bottom: 5vw;
   background: rgb(253, 0, 0);
   color: rgb(251, 251, 251);
   text-align: center;
