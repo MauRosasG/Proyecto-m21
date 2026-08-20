@@ -185,8 +185,8 @@ body {
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
         &__img {
-        width: 150px;
-        height: 150px;
+        width: 20vw;
+        height: 20vw;
         }
     }
 
@@ -195,8 +195,8 @@ body {
         padding: 10px;
 
         &__img {
-        width: 100%;
-        max-width: 200px;
+        width: 40vw;
+        height: 40vw;
         margin-bottom: 10px;
         }
 

@@ -134,8 +134,8 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
   .products__img {
-    width: 150px;
-    height: 150px;
+    width: 20vw;
+    height: 20vw;
   }
 }
 @media (max-width: 480px) {
@@ -144,8 +144,8 @@ body {
     padding: 10px;
   }
   .products__img {
-    width: 100%;
-    max-width: 200px;
+    width: 40vw;
+    height: 40vw;
     margin-bottom: 10px;
   }
   .products__h3, .products__p {
